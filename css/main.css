@@ -6,7 +6,8 @@ html {
 }
 
 *, *::before, *::after {
-box-sizing: inherit;
+  box-sizing: inherit;
+
 }
 
 header {
@@ -20,23 +21,26 @@ h1 {
   color: #fff;
   text-align: center;
   margin: 0;
+
 }
 
-  body {
-    background-color: #dbd6cf;
-    line-height: 1.5;
-    margin: 0;
+body {
+  background-color: #dbd6cf;
+  line-height: 1.5;
+  margin: 0;
 }
 
-  ul {
+ul {
   padding: 0;
   text-align: center;
   margin-top: 0;
+
 }
 
-  nav li {
+nav li {
   list-style-type: none;
   display: inline-block;
+
 }
 
 
@@ -49,6 +53,7 @@ nav li a {
   margin: .3em;
   background-color: #713837;
   border-radius: 4.5px;
+
 }
 
 nav li a:hover {
