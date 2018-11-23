@@ -8,3 +8,15 @@ html {
 *, *::before, *::after {
 box-sizing: inherit;
 }
+
+header {
+  background-color: #79756f;
+  border-top: 3px solid #595652;
+  border-bottom: 3px solid #595652;
+}
+
+h1 {
+  font-family: Bevan, serif;
+  color: #fff;
+  text-align: center;
+  margin: 0;
